@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc6aeec339423c4796f1dde5263a1a9, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  cellSprites:
+    cell: {fileID: 21300000, guid: c854b77abb23c944b8497f74e1ba9c1b, type: 3}
+    empty: {fileID: 21300000, guid: 639912bf377fa6d49be3a4af23bc9730, type: 3}
+    one: {fileID: 21300000, guid: d95991905e23e7a43a6e92681de2b096, type: 3}
+    two: {fileID: 21300000, guid: d02ab029571c9a14e9b076b0fded0de8, type: 3}
+    three: {fileID: 21300000, guid: bb241db7565dfc3418a25cb156357706, type: 3}
+    four: {fileID: 21300000, guid: 51767d2c8e95b3f48b6155d09dc4c36d, type: 3}
+    five: {fileID: 21300000, guid: 2e33ba6aa4a635949bbb2402689701e1, type: 3}
+    six: {fileID: 21300000, guid: 3901c190a02ce154fb72ad561c3a655f, type: 3}
+    seven: {fileID: 21300000, guid: c2edd3067d1c7e64696edef9895e82ee, type: 3}
+    eight: {fileID: 21300000, guid: 5e0d69ba167dde3409dfcea9f6038c6b, type: 3}
+    mine: {fileID: 21300000, guid: 9de8077d7d3ccd9419f880ea6be20247, type: 3}
+    detonatedMine: {fileID: 21300000, guid: f690d9e449169e24197c4683f14cc8a9, type: 3}
+    flag: {fileID: 21300000, guid: 6a5733d06e5fad44c90ad5c64e742cd6, type: 3}
+    incorrectFlag: {fileID: 21300000, guid: 96a679b3843a1a94a83a697dc04d6f0b, type: 3}
